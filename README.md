@@ -37,9 +37,9 @@ The dashboard focuses on:
 
 ## Dashboard Pages
 
-### Pivot Table & Data Overview
-![image](Pivot_table.png)
+### Full Data & Pivot Table
 ![image](table.png)
+![image](Pivot_table.png)
 
 ### Employees Analysis
 ![image](Employees_analysis.png)
