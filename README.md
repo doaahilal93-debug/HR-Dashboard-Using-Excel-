@@ -38,13 +38,13 @@ The dashboard focuses on:
 ## Dashboard Pages
 
 ### Pivot Table & Data Overview
-![image](Pivottable.png)
+![image](Pivot_table.png)
 
 ### Employees Analysis
-![image](Employeesanalysis.png)
+![image](Employees_analysis.png)
 
 ### Department Analysis
-![image](Departmentanalysis.png)
+![image](Department_analysis.png)
 
 ### Insights & Findings
 ![image](Insights.png)
@@ -57,7 +57,7 @@ During analysis, we identified **incorrect gender values** in the original datas
 - A new table, **Correct Gender**, was created with accurate gender information.  
 - This table was then **appended** to the main dataset, **Full Data**, to create a corrected, unified dataset.  
 - This ensured **accurate gender information** for all employees, improving analysis for **gender distribution** and related KPIs.  
-![image](correctgender.png)
+![image](correct_gender.png)
 ---
 
 ## Key Insights
