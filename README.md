@@ -38,13 +38,13 @@ The dashboard focuses on:
 ## Dashboard Pages
 
 ### Pivot Table & Data Overview
-![image](Pivot table.png)
+![image](Pivottable.png)
 
 ### Employees Analysis
-![image](Employees analysis.png)
+![image](Employeesanalysis.png)
 
 ### Department Analysis
-![image](Department analysis.png)
+![image](Departmentanalysis.png)
 
 ### Insights & Findings
 ![image](Insights.png)
