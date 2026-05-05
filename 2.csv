@@ -1,0 +1,92 @@
+EmployeeID,Name,Department,JobRole,Gender,Age,HireDate,ExitDate,Salary,PerformanceScore,SatisfactionScore,EngagementScore,AbsenceDays,OvertimeHours,TrainingHours,TrainingCost
+110,Salma Nabil,Finance,Financial Analyst,Male,46,2020-06-02,,8720,3.09,1,1,7,26,40,1725
+111,Hala Fathy,Sales,Sales Executive,Male,44,2023-02-16,,6352,3.23,1,5,11,15,36,953
+112,Mona Mahmoud,HR,HR Manager,Male,34,2018-12-17,,11702,2.61,4,3,8,47,1,831
+113,Mostafa Nabil,IT,DBA,Male,23,2021-11-13,,9772,3.87,2,4,15,40,11,1761
+114,Heba Hassan,HR,Recruiter,Male,23,2018-09-16,,7268,4.71,3,3,16,25,34,1069
+115,Karim Youssef,Finance,Financial Analyst,Male,49,2018-05-30,,14743,3.33,1,3,13,56,25,1622
+116,Youssef Sayed,Marketing,Content Creator,Female,47,2022-05-03,,12507,3.17,1,4,2,27,38,1784
+117,Mostafa Mahmoud,HR,Recruiter,Female,31,2024-02-13,,11305,4.01,4,2,14,22,28,186
+118,Aya Youssef,Operations,Operations Analyst,Male,43,2021-12-15,,14445,3.52,5,2,0,9,38,1488
+119,Mona Khaled,Marketing,Content Creator,Male,41,2018-05-23,2019-10-18,6513,4.2,3,3,14,48,4,1275
+120,Sara Youssef,HR,HR Specialist,Male,22,2023-12-09,,7048,3.75,4,5,3,16,16,1541
+121,Ibrahim Sayed,Marketing,Marketing Specialist,Male,26,2020-05-28,,5213,3.63,4,1,10,42,22,1553
+122,Ibrahim Ali,IT,Software Engineer,Female,38,2024-03-02,,7673,2.8,2,2,7,50,31,153
+123,Heba Fathy,Finance,Accountant,Male,24,2024-03-19,,9067,3.5,4,5,13,49,26,1786
+124,Mahmoud Sayed,Sales,Account Manager,Female,26,2018-10-30,2020-09-08,13032,4.1,2,2,13,32,3,1802
+125,Youssef Khaled,IT,Software Engineer,Female,38,2023-10-24,2024-10-25,8653,4.61,3,2,20,35,17,356
+126,Mahmoud Fathy,Operations,Operations Analyst,Male,27,2021-05-25,,14792,4.06,5,3,18,2,1,266
+127,Karim Nabil,IT,BI Developer,Male,37,2024-06-20,,14275,3.86,3,4,7,51,25,709
+128,Youssef Sayed,Marketing,Content Creator,Female,36,2018-10-26,,7342,3.35,2,3,10,46,22,916
+129,Mostafa Khaled,HR,HR Specialist,Female,25,2022-02-26,,8382,3.62,2,1,1,18,24,1869
+130,Sara Nabil,Sales,Account Manager,Male,46,2022-09-09,2023-09-01,6610,3.75,5,4,15,56,19,1118
+131,Fatma Sayed,IT,Software Engineer,Male,40,2019-01-04,,9781,2.62,3,4,19,56,30,685
+132,Aya Ali,Sales,Account Manager,Female,46,2018-02-03,,10606,3.41,4,1,18,35,12,842
+133,Heba Fathy,Sales,Account Manager,Male,26,2021-03-28,2024-02-23,5584,3.48,3,5,11,48,9,507
+134,Mohamed Hassan,Sales,Sales Executive,Male,44,2023-09-17,,9456,4.51,5,4,4,38,32,386
+135,Nour Nabil,Finance,Financial Analyst,Female,38,2024-11-16,,12351,3.83,5,3,15,52,1,854
+136,Rania Youssef,Finance,Accountant,Female,30,2019-03-25,,14741,4.46,5,5,7,46,3,1295
+137,Hala Mostafa,Marketing,Marketing Specialist,Male,23,2019-11-30,,13380,4.87,1,2,0,28,20,957
+138,Aya Fathy,HR,HR Manager,Female,49,2022-08-19,,5020,4.26,5,2,17,20,30,1176
+139,Heba Fathy,Marketing,Content Creator,Female,43,2021-07-09,,14539,4.51,3,5,15,12,15,671
+140,Ibrahim Ibrahim,Sales,Account Manager,Female,37,2021-05-07,2023-02-05,9714,3.9,3,3,3,36,34,877
+141,Omar Youssef,Marketing,Marketing Specialist,Female,44,2021-11-14,,5294,3.37,4,3,15,13,12,1795
+142,Hassan Ali,Sales,Sales Executive,Male,29,2021-01-15,,4831,4.17,5,2,20,14,3,305
+143,Mostafa Ali,Marketing,Marketing Specialist,Male,35,2021-09-14,,14696,4.84,4,4,20,12,18,757
+144,Mahmoud Nabil,Finance,Accountant,Male,27,2018-08-31,,10846,4.71,2,1,12,50,31,481
+145,Ahmed Youssef,Operations,Operations Analyst,Female,31,2021-03-31,,11444,4.97,5,5,15,56,8,1842
+146,Mostafa Khaled,Sales,Sales Executive,Female,42,2023-04-02,,8215,4.3,1,3,9,36,12,459
+147,Fatma Khaled,Sales,Sales Executive,Female,43,2022-07-19,,5562,2.96,2,4,10,59,15,113
+148,Sara Youssef,Finance,Accountant,Female,42,2022-04-21,2023-11-18,9890,4.23,1,1,14,19,10,930
+149,Ibrahim Mahmoud,Operations,Coordinator,Female,41,2023-08-21,,7618,3.05,2,4,4,29,38,865
+150,Salma Ibrahim,Marketing,Marketing Specialist,Male,38,2024-02-28,,11319,3.82,3,1,18,7,3,1797
+151,Omar Ali,Sales,Account Manager,Female,25,2023-09-02,,7365,4.29,4,1,16,28,3,1028
+152,Rania Hassan,HR,HR Manager,Female,43,2023-10-04,,9049,4.31,4,3,0,47,13,1284
+153,Mahmoud Fathy,IT,Data Analyst,Male,37,2018-07-05,,4519,3.22,2,2,20,46,26,866
+154,Nour Mostafa,Marketing,Marketing Specialist,Male,42,2023-01-12,,9697,2.8,5,4,16,8,14,1809
+155,Heba Fathy,IT,BI Developer,Female,48,2018-04-04,,7762,3.12,3,2,8,12,7,165
+156,Ahmed Ibrahim,Operations,Operations Analyst,Male,25,2022-09-14,,13731,2.58,5,1,7,47,2,923
+157,Mohamed Ali,Marketing,Content Creator,Male,48,2020-08-17,,13438,3.3,5,3,7,19,9,1452
+158,Hassan Hassan,Sales,Sales Executive,Female,39,2020-06-24,,12120,2.62,3,4,16,20,26,936
+159,Salma Sayed,HR,HR Specialist,Male,31,2021-05-13,,6365,4.51,1,5,13,26,35,1185
+160,Sara Mahmoud,HR,Recruiter,Female,24,2022-05-10,2023-07-30,12775,4.31,2,1,8,24,38,1334
+161,Salma Ibrahim,IT,BI Developer,Male,49,2018-10-26,2022-03-12,9455,3.26,1,2,6,47,7,1629
+162,Karim Mostafa,Marketing,Marketing Specialist,Female,46,2020-09-20,,8637,3.45,5,3,9,16,23,1150
+163,Sara Ibrahim,Marketing,Content Creator,Female,35,2023-03-24,,4749,3.91,2,2,0,16,35,1296
+164,Karim Khaled,Sales,Sales Executive,Female,40,2022-09-07,,8026,3.75,3,3,15,46,31,1043
+165,Dina Ali,HR,HR Manager,Male,38,2021-12-13,,4554,4.6,1,1,0,26,8,1825
+166,Ahmed Ibrahim,Operations,Coordinator,Female,23,2020-08-05,2021-07-10,14122,4.09,5,4,15,1,0,1189
+167,Hassan Fathy,Sales,Account Manager,Male,38,2022-08-12,,11054,4.52,2,1,3,33,9,593
+168,Mona Youssef,HR,Recruiter,Male,33,2024-12-13,,10652,3.65,2,2,9,43,5,1438
+169,Nour Fathy,Operations,Coordinator,Male,42,2018-05-10,2020-07-24,4154,4.26,1,4,13,41,21,1258
+170,Amr Ibrahim,IT,BI Developer,Female,23,2023-12-04,,5218,4.21,3,5,18,42,2,467
+171,Rania Ali,Finance,Financial Analyst,Male,31,2018-03-06,,6661,3.91,5,4,17,21,24,1647
+172,Mahmoud Fathy,Operations,Coordinator,Male,25,2019-07-28,,11161,3.08,1,3,19,49,39,1319
+173,Heba Sayed,Marketing,Marketing Specialist,Female,39,2021-08-29,2023-04-10,10150,3.58,5,4,2,49,39,704
+174,Nour Ali,HR,HR Manager,Female,32,2018-10-29,2019-10-09,9909,2.77,1,3,14,23,17,309
+175,Salma Fathy,HR,HR Manager,Female,25,2018-12-24,2021-07-30,4430,2.72,5,1,19,38,20,1868
+176,Nour Mahmoud,Marketing,Marketing Specialist,Male,43,2018-02-20,,10237,2.92,3,3,8,31,9,229
+177,Ibrahim Sayed,HR,HR Specialist,Female,30,2022-11-16,,8040,4.3,4,5,19,12,29,319
+178,Sara Nabil,HR,Recruiter,Female,36,2021-06-01,2023-09-19,9484,3.58,5,2,9,20,38,1523
+179,Nour Khaled,HR,Recruiter,Female,40,2023-05-17,,7971,3.31,3,4,11,7,36,509
+180,Ahmed Sayed,Sales,Sales Executive,Female,47,2024-02-13,,8773,4.58,1,4,15,8,40,720
+181,Aya Mostafa,HR,HR Specialist,Female,41,2020-10-31,,11851,3.96,5,5,13,34,2,1719
+182,Mahmoud Mahmoud,Finance,Accountant,Female,27,2024-01-09,,14600,4.03,5,4,10,50,27,316
+183,Fatma Fathy,IT,Software Engineer,Female,33,2019-02-08,,10408,3.66,5,5,4,22,1,1088
+184,Mahmoud Mahmoud,IT,Software Engineer,Female,31,2021-04-25,,9620,3.64,2,5,15,22,30,299
+185,Ibrahim Hassan,Marketing,Marketing Specialist,Male,49,2023-01-28,,9620,4.12,2,2,16,11,35,427
+186,Heba Ibrahim,Finance,Financial Analyst,Male,27,2024-04-12,,14493,4.14,4,1,19,56,12,1020
+187,Karim Ibrahim,Sales,Account Manager,Male,40,2022-10-26,,5667,4.5,5,2,11,20,12,1037
+188,Dina Fathy,IT,DBA,Female,41,2020-12-10,,10431,3.97,3,3,14,39,11,1766
+189,Rania Mahmoud,Operations,Operations Analyst,Female,25,2021-05-03,,7908,3.26,2,3,4,32,24,956
+190,Aya Ali,Sales,Account Manager,Male,39,2019-07-19,,6733,3.72,2,2,10,53,28,1368
+191,Dina Ali,IT,Software Engineer,Female,39,2022-01-10,,12281,4.13,4,4,13,45,28,1100
+192,Amr Youssef,HR,HR Specialist,Female,29,2018-12-05,,12808,3.22,4,5,15,35,32,331
+193,Salma Khaled,Sales,Sales Executive,Female,39,2019-04-13,,7580,4.97,1,2,9,55,2,1021
+194,Mahmoud Sayed,Finance,Accountant,Male,28,2021-11-28,,13632,4.22,5,4,5,39,8,1707
+195,Rania Khaled,HR,HR Manager,Female,41,2020-04-27,,12827,2.92,3,3,18,17,32,1943
+196,Mohamed Youssef,Operations,Operations Analyst,Male,29,2019-01-26,2021-06-16,6396,4.28,2,4,15,9,36,1395
+197,Mahmoud Mahmoud,Finance,Financial Analyst,Female,44,2022-08-24,,10046,3.64,4,3,18,0,5,1596
+198,Salma Mostafa,Marketing,Marketing Specialist,Female,48,2022-01-07,,7470,3.74,3,3,10,35,36,367
+199,Mohamed Hassan,Sales,Sales Executive,Female,22,2023-06-11,,6035,4.82,2,4,14,0,27,514
+200,Ibrahim Ali,Operations,Coordinator,Male,42,2019-06-25,,9905,3.13,3,2,1,25,40,725
